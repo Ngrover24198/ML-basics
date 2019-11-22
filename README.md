@@ -1,2 +1,2 @@
-# MachineLearning-basics
-Some machine learning projects at beginner level
+# MachineLearning and DeepLearning basics
+Some machine learning and deep learning projects at beginner level
